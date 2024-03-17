@@ -23,7 +23,7 @@ library(DescTools)
 conflicted::conflicts_prefer(dplyr::lag)
 conflicted::conflicts_prefer(dplyr::filter)
 
-# Dictionaries
+# Directories
 setwd("C:/Files/davis_research/folate_data/")
 repo <- "C:/Users/wenji/OneDrive/github_files/GitHub/folate/"
 
